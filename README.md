@@ -1,6 +1,6 @@
 # Привет, я Сергей 👋
 
-Python/ML/LLM/Backend Developer / AI Integrator 
+Python/ML/LLM/Backend Developer | AI Integrator 
 
 Разрабатываю прикладные AI-сервисы: автоматизация контента, LLM-интеграции, пайплайны обработки данных, backend на FastAPI, Docker-окружения.
 
