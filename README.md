@@ -1,16 +1,49 @@
-## Hi there 👋
+# Привет, я Сергей 👋
 
-<!--
-**QuantoniA7/QuantoniA7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python/ML/LLM/Backend Developer / AI Integrator 
 
-Here are some ideas to get you started:
+Разрабатываю прикладные AI-сервисы: автоматизация контента, LLM-интеграции, пайплайны обработки данных, backend на FastAPI, Docker-окружения.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Основные проекты
+
+### 🔎 knowledge-flow  
+Интеллектуальный поиск и обработка знаний с использованием LLM + Gradio UI.  
+Стек: Python, FastAPI, Docker, LLM, Gradio  
+
+### 🛒 catalog-enricher  
+Сервис для автоматического обогащения товарных карточек (Excel → LLM → результат).  
+Стек: Python, FastAPI, Docker, RabbitMQ, Redis, Celery, Gradio, LLM, Data Processing  
+
+---
+
+## 🛠 Технологии
+
+- Python
+- FastAPI
+- Docker / Docker Compose
+- Redis / Celery
+- LLM (Ollama, OpenAI API)
+- Pandas / Data Processing
+- REST API design
+
+---
+
+## 📌 Интересы
+
+- AI-автоматизация
+- LLM-сервисы
+- Архитектура микросервисов
+- Оптимизация backend-систем
+- DevOps задачи
+
+---
+
+## 📫 Контакты
+
+- Email: solvyn.sol@gmail.com  
+
+---
+
+⭐ Открыт к интересным проектам и сотрудничеству.
