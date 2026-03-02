@@ -8,11 +8,11 @@ Python/ML/LLM/Backend Developer / AI Integrator
 
 ## 🚀 Основные проекты
 
-### 🔎 knowledge-flow  
+### 🔎 [knowledge-flow](https://github.com/QuantoniA7/knowledge-flow)  
 Интеллектуальный поиск и обработка знаний с использованием LLM + Gradio UI.  
 Стек: Python, FastAPI, Docker, LLM, Gradio  
 
-### 🛒 catalog-enricher  
+### 🛒 [catalog-enricher](https://github.com/QuantoniA7/catalog-enricher)  
 Сервис для автоматического обогащения товарных карточек (Excel → LLM → результат).  
 Стек: Python, FastAPI, Docker, RabbitMQ, Redis, Celery, Gradio, LLM, Data Processing  
 
